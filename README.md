@@ -1,7 +1,7 @@
 # Coffee Sales Dashboard Project
 
 ## Overview
-This project involved creating an interactive Coffee Sales Dashboard in Excel, utilizing data from coffee sales to derive insights about sales trends, customer behaviors, and regional performance. The dashboard features dynamic visualizations and interactive filters for enhanced data analysis.
+This project involved creating an interactive Coffee Sales Dashboard in Excel. The dashboard utilizes data from coffee sales to derive insights about sales trends, customer behaviors, and regional performance. It features dynamic visualizations and interactive filters for enhanced data analysis.
 
 ## Objectives
 - Develop a dashboard displaying:
@@ -74,17 +74,10 @@ To enhance user interaction, slicers were added to the dashboard. These slicers 
 - **Size Slicer**: Filters the data based on the coffee bean package size.
 - **Loyalty Card Slicer**: Filters customers based on whether they have a loyalty card.
 
-### 5. Customizing Visuals
-- **Color Customization for Coffee Types**: Each coffee type was given a distinct color for easy differentiation.
-- **Inserting and Formatting Timelines**: A timeline was inserted for easy date filtering, customized for appearance.
-- **Creating and Formatting Slicers**: Slicers were styled for a consistent look, including custom fonts and colors.
-
-### 6. Enhancing Dashboard Interactivity
+### 5. Enhancing Dashboard Interactivity
 - **Adding Loyalty Card Information**: A new "Loyalty Card" column was added to the dataset using XLOOKUP.
 - **Pivot Table Duplications**: Existing pivot tables were copied to ensure interactivity across visuals.
 
 ## Conclusion
 This project resulted in a fully interactive Coffee Sales Dashboard built in Excel. By leveraging `XLOOKUP` and `INDEX MATCH` formulas, we efficiently gathered data from multiple tables and created dynamic visualizations. The dashboard provides valuable insights into coffee sales trends, customer behavior, and regional performance, and its interactivity allows for deep data exploration.
 ```
-
-This Markdown code includes all the specified sections with appropriate formatting for headers, code blocks, and bullet points. Let me know if you need any further modifications!
